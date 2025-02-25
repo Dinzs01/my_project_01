@@ -1,6 +1,3 @@
-Here's a breakdown for your **Secure Data Hiding in Image Using Steganography** project, covering key aspects like **problem statement**, **technology used**, and more:
-
----
 
 ### **Problem Statement**
 In today's digital age, **data privacy and security** have become increasingly important. Sensitive information needs to be securely stored and transferred, often away from prying eyes. However, **traditional methods of encryption** can be detected, leading to the potential exposure of hidden data. **Steganography** offers a way to embed data into images or other files without raising suspicion, making it an ideal solution for **secure data hiding**.
